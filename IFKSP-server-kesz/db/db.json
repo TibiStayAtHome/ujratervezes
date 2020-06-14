@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "Nem Tudok Torolni",
+      "email": "nemtorol@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "piggies",
+      "email": "janos@gmail.com",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Na Ki A Kiraly",
+      "email": "kiakiraly@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userID": 1
+    }
+  ]
+}
